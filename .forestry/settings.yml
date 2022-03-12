@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: forestryadminfile
-webhook_url: 
+webhook_url: post_import
 sections:
 - type: document
   path: FORESTRY-README.md
